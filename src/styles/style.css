@@ -1,0 +1,9 @@
+@import './Home.css';
+@import './Movie.css';
+@import './Navigation.css';
+@import './About.css';
+@import './App.css';
+
+a {
+  text-decoration: none;
+}
